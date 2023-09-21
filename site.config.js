@@ -6,7 +6,7 @@ const CONFIG = {
     role: "Researcher",
     bio: "Ajou univ. Master's degree",
     email: "ncw0509@ajou.ac.kr",
-    linkedin: "Chiwoo Roh",
+    linkedin: "치우-노",
     github: "Chi-ri",
     instagram: "chi_vvoo",
   },
@@ -18,12 +18,12 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "morethan-log",
-    description: "welcome to morethan-log!",
+    title: "Chiwoo's Blog",
+    description: "welcome to Chiwoo's Blog!",
   },
 
   // CONFIG configration (required)
-  link: "https://morethan-log.vercel.app",
+  link: "https://chiwooroh.vercel.app/",
   since: 2022, // If leave this empty, current year will be used.
   lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash

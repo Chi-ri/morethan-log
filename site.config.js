@@ -6,7 +6,7 @@ const CONFIG = {
     role: "Researcher",
     bio: "Ajou univ. Master's degree",
     email: "ncw0509@ajou.ac.kr",
-    linkedin: "치우-노",
+    linkedin: "치우-노-7b9039238",
     github: "Chi-ri",
     instagram: "chi_vvoo",
   },

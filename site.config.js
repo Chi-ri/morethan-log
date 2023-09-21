@@ -30,7 +30,7 @@ const CONFIG = {
 
   // notion configuration (required)
   notionConfig: {
-    pageId: process.env.https://chiwooroh.notion.site/df31d4850b0248fabad69fceb6b4c5a3?v=5f98f6d7880041b3a18ee4314c2d8aa6&pvs=4,
+    pageId: process.env.NOTION_PAGE_ID,
   },
 
   // plugin configuration (optional)
